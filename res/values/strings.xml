@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">FOMAT Prueba</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_forgot">Recuperar contraseña</string>
+
+    <string name="error_tag">ERROR</string>
+    <string name="no_conexion">No se detectó conexión a internet. Verifique su conexión.</string>
+    <string name="empty">No se encontraron noticias que cumplan con el criterio de búsqueda.</string>
+    <string name="forgot_password">¿Olvidó su contraseña?</string>
+    <string name="error_mismatch_password">Las contraseñas no coinciden.</string>
+    <string name="google_error">Ha ocurrido un error inesperado.</string>
+    <string name="seleccionar">Seleccionar</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_follow">Seguidores</string>
+    <string name="menu_logoff">Cerrar sesión</string>
+
+    <string name="es_translate">Traducir</string>
+    <string name="en_translate">Translate</string>
+    <string name="save">Guardar</string>
+    <string name="afirmacion">Sí</string>
+    <string name="negacion">No</string>
+    <string name="salir_prompt">¿Desea salir de la aplicación?</string>
+    <string name="authentication_message_logoff">Sesión cerrada exitosamente</string>
+
+    <!-- Strings related to auth -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_nombre">Nombre</string>
+    <string name="prompt_password">Clave</string>
+    <string name="prompt_password2">Repita la clave</string>
+    <string name="prompt_code">Código de seguridad</string>
+    <string name="prompt_nacimiento">Fecha de nacimiento</string>
+    <string name="prompt_nacimiento2">Nacimiento</string>
+
+    <string name="follow_cabecera1">Todos los usuarios</string>
+    <string name="follow_cabecera2">Usuarios que sigo</string>
+    <string name="follow_cabecera3">Usuarios que me siguen</string>
+    <string name="follow_empty">Aún no hay usuarios en esta lista.</string>
+
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="action_register">Registro de usuario</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="error_invalid_email">El correo ingresado no es válido</string>
+    <string name="error_invalid_password">La contraseña ingresada es muy corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta.</string>
+    <string name="error_field_required">Este campo es requerido.</string>
+    <string name="activity_auth_message_nacimiento_required">Debe ingresar una fecha de nacimiento.</string>
+    <string name="activity_auth_message_foto_required">Debe seleccionar una foto.</string>
+    <string name="fecha_superior">La fecha de nacimiento no puede ser posterior a la actual.</string>
+    <string name="image_error">Ha ocurrido un error al subir la imagen.</string>
+    <string name="forgot_email">Ingrese su email</string>
+    <string name="forgot_request_email">Solicitar código de seguridad</string>
+    <string name="forgot_code">¿Ya tiene código de seguridad?</string>
+    <string name="forgot_request_code">Verificar</string>
+    <string name="forgot_alert_password">Ingrese su nueva clave:</string>
+</resources>
